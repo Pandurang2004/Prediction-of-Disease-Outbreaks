@@ -44,6 +44,9 @@ Streamlit is an open-source Python library that makes it easy to create and depl
 
 # If parkinson disease is negative, then :
 
+![if parkinson](https://github.com/user-attachments/assets/b82015c3-0a6f-43c0-8add-e53fac7210bd)
+
+
 
 
 
