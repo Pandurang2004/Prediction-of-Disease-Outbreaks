@@ -33,3 +33,17 @@ Streamlit is an open-source Python library that makes it easy to create and depl
 # This is how the website look like :
 
 ![pridiction of disease outbreaks](https://github.com/user-attachments/assets/acd78532-d6e4-4329-88d0-5aa2b79819d0)
+
+# If the Diabetic resust is negative then give Suggetions :
+
+![if diabetic](https://github.com/user-attachments/assets/b9b749c3-0e69-44bb-8698-79b3436707be)
+
+# If Heart disease is negative then :
+
+![if heart](https://github.com/user-attachments/assets/18160151-90f7-4721-af27-e32f54539191)
+
+# If parkinson disease is negative, then :
+
+
+
+
