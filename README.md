@@ -32,7 +32,7 @@ The web application provides a simple, interactive UI where users can enter thei
 
 Streamlit is an open-source Python library that makes it easy to create and deploy interactive web applications for data science and machine learning projects. It allows users to build UI components using simple Python scripts without requiring extensive frontend development knowledge.
 
-## This is how the website look like :
+## This is how the model look like :
 
 ![if heart](https://github.com/user-attachments/assets/592d16e2-f0d9-46c7-8f43-5c4e85d7bf22)
 
